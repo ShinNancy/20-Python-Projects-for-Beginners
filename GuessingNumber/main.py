@@ -26,7 +26,7 @@ while True:
     
 print(f"User guesses a number from {A} to {B}")
 
-changes = 3
+changes = 4
 
 user_guess_counter = 0
 
