@@ -20,3 +20,6 @@ As a developer, I believe that learning by doing is the most effective way to ma
 
 ## 🔹 Project 1: Number Guessing Game 🎲  
 A simple game where the **computer selects a random number**, and the **user has to guess** it within a limited number of attempts.  
+
+## 🔹 Project 2: Word Guessing Game 🧩 
+A simple game where the **computer selects a random number**, and the **user has to guess** it within a limited number of attempts.  
